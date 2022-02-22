@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdiNeves
+- 👀 I’m interested in web development, front-end
+- 🌱 I’m currently learning JavaScript and Python
+- 📫 How to reach me https://www.linkedin.com/in/adler-neves-aa991a181/ or instagram.com/adi.neves
